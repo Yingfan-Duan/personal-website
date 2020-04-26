@@ -3,7 +3,7 @@ style: light
 # Site settings
 title: Yingfan Blog
 email: yingfanduan901@gmail.com
-description: "本科应用统计在读，输据分析"
+description: "本科应用统计在读，数据分析"
 url: "https://yingfan-duan.github.io"
 
 plugins:
